@@ -3,7 +3,7 @@
 The project is build on Atomic Design Methodology.
 
 
-The solution it´s based on these steps:
+The solution is based on these steps:
 
 - Organize employees information (name, schedules, ect)
 - Set a list of partneers.
