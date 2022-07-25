@@ -6,7 +6,7 @@ The project is build on Atomic Design Methodology.
 The solution it´s based on these steps:
 
 - Organize employees information (name, schedules, ect)
-.- Set a list of partneers.
+- Set a list of partneers.
 - Evaluate the partneers list, in case of any coincidence in partneers schedule, display the coincidence and how many times that happened.
 
 
